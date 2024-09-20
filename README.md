@@ -1,1 +1,0 @@
-# demo_gcp_streaming 2

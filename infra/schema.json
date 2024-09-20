@@ -1,0 +1,13 @@
+[
+    {
+      "name": "timestamp",
+      "type": "TIMESTAMP",
+      "mode": "REQUIRED"
+    },
+    {
+      "name": "message",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    }
+  ]
+  
